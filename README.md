@@ -12,7 +12,7 @@ Here are some things i've made. Take a look to get to know me :)
 
 Go to my [insta](https://www.instagram.com/jolo_ono/) to see some photos.
 
-Folllow my meditations on [insightTimer](https://insighttimer.com/jolo_ono).
+For some peace of mind in german language, follow my meditations on [insightTimer](https://insighttimer.com/jolo_ono).
 
 
 - 🌱 my goal is to contribute to open source. 
