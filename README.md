@@ -1,13 +1,17 @@
 ### Hi there, beautiful world 👋
 
-Create, to get to know thyself. 
+> Create, to get to know thyself. 
 
 Here are some things i've made. Take a look to get to know me :)
+
 [Homepage](http://jolo.media/)
+
 [Blog](http://jolo.media/blog/)
+
 [Pod](https://www.youtube.com/watch?v=UjJ6SzHzlDo)
 
 Go to my [insta](https://www.instagram.com/jolo_ono/) to see some photos.
+
 Folllow my meditations on [insightTimer](https://insighttimer.com/jolo_ono).
 
 
