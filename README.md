@@ -4,7 +4,7 @@
 
 Here are some things i've made. Take a look to get to know me :)
 
-[Homepage](http://jolo.media/)
+[Homepage](http://entdecke.jolo.media/)
 
 [Blog](http://jolo.media/blog/)
 
@@ -15,8 +15,7 @@ Go to my [insta](https://www.instagram.com/jolo_ono/) to see some photos.
 For some peace of mind in german language, follow my meditations on [insightTimer](https://insighttimer.com/jolo_ono).
 
 
-- 🌱 my goal is to contribute to open source. 
-- 🔭 I definitely want to take a look at blockchain projects, DAOs and [solidity](https://soliditylang.org/)
+- 🌱 my goal is to contribute. 
 
 I'd love to receive tipps and tricks about where to contribute first.
 
